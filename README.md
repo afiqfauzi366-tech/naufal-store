@@ -1,2 +1,0 @@
-# naufal-store
-jual akun
